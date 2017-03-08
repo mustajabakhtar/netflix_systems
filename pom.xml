@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mustajab.main</groupId>
-	<artifactId>netflix_system</artifactId>
+	<groupId>com.mustajab.netflix.system</groupId>
+	<artifactId>netflix_systems</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>netflix_system</name>
+	<name>netflix_systems</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -47,7 +47,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.go.jek.main.ParkingLot</mainClass>
+							<mainClass>com.mustajab.netflix.system.main.NetflixSystemMain</mainClass>
 							<classpathPrefix>dependency-jars/</classpathPrefix>
 						</manifest>
 					</archive>
