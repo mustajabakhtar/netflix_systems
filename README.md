@@ -9,7 +9,7 @@
 7. Recommended movies
 8. Movies by countries
  a. Movies by Language
-9.Top movies
+9. Top movies
 10.Movie Genres
  a.Action & Adventure
  b.Comedy
@@ -20,6 +20,6 @@
  b.Comedy
  c.Drama
  d.Crime
-12. Trending Movies
+12.Trending Movies
 13.Documentary
-14. Trending TV Serials
+14.Trending TV Serials
